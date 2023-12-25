@@ -332,7 +332,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 2px solid var(--cultured);
+    border-bottom: 2px solid black;
   }
   
   .menu-top .menu-title {
@@ -958,7 +958,7 @@
     left: 3px;
     height: 4px;
     width: 40%;
-    background: var(--salmon-pink);
+    background: red;
     border-radius: 4px;
   }
   
